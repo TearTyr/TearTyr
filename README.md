@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @TearTyr
+- 👀 I’m interested in Roblox
+- 🌱 I’m currently learning Lua
