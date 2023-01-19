@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @TearTyr
-- 👀 I’m interested in Roblox
-- 🌱 I’m currently learning Lua
+- 👀 I’m interested in Roblox and reverse engineering 
+- 🌱 I’m currently learning Lua, C++ and Javascript.
