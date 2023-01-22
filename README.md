@@ -1,6 +1,4 @@
 <div align="center">
-### Hi there 👋, Welcome to TearTyr's Github
-
 I make open sourced scripts on the things I make.
 
 ‼️ My Current Skills : HTML / CSS 
@@ -9,6 +7,4 @@ I make open sourced scripts on the things I make.
 </div>
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TearTyr)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TearTyr&show_icons=true&count_private=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TearTyr)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TearTyr&show_icons=true&count_private=true)  
