@@ -3,9 +3,9 @@
 
 I make open sourced scripts on the things I make.
 
-- ‼️ My Current Skills : HTML / CSS 
+‼️ My Current Skills : HTML / CSS 
 
-- 🌱 I’m currently learning Lua, JS, C, C#, C++ 
+🌱 I’m currently learning Lua, JS, C, C#, C++ 
 </div>
 ---
 
