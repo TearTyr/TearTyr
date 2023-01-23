@@ -1,6 +1,5 @@
 <a href="#">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=TearTyr&count_private=true&show_icons=true" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TearTyr&layout=compact" />
 </a>
 
 
@@ -12,3 +11,7 @@
 **Skills**
 
 [<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>]
+
+**Others**
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TearTyr&layout=compact" />
