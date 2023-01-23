@@ -15,3 +15,4 @@
 **Others**
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TearTyr&layout=compact" />
+<img src="https://osu-sig.vercel.app/card?user=Homeless%20Gaming&mode=std&lang=en&blur=6&animation=true&hue=255" />
