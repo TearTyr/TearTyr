@@ -10,8 +10,8 @@
 
 **Skills**
 
-[<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>]
+- Lua, HTML, CSS
 
 **Others**
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TearTyr&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TearTyr&layout=compact" />
