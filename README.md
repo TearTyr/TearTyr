@@ -10,7 +10,7 @@
 
 **Skills**
 
-- Lua, HTML, CSS
+- Lua, HTML, CSS, JS
 
 **Others**
 
