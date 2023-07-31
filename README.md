@@ -6,11 +6,10 @@
 **About Me**
 
 - 🔭 Currently wondering on what I should do
-- 🌱 I’m currently learning PHP, C, C#, C++
 
 **Skills**
 
-- Lua, HTML, CSS, JS
+= HTML, CSS, JS
 
 **Others**
 
