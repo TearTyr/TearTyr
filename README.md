@@ -9,7 +9,7 @@
 
 **Skills**
 
-- HTML, CSS, JS, Lua
+- HTML, CSS, JS, Lua, Low-Mid Python
 
 **Others**
 
