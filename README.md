@@ -1,6 +1,6 @@
-<a href="#">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=TearTyr&count_private=true&show_icons=true" />
-</a>
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TearTyr&theme=codeSTACKr">
+</p>
 
 
 **About Me**
@@ -13,5 +13,7 @@
 
 **Others**
 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TearTyr&layout=compact" />
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TearTyr&theme=codeSTACKr">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TearTyr&theme=codeSTACKr&utcOffset=8">
+</p>
