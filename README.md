@@ -1,3 +1,5 @@
+**Activity**
+
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TearTyr&theme=codeSTACKr">
 </p>
@@ -16,4 +18,7 @@
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TearTyr&theme=codeSTACKr">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TearTyr&theme=codeSTACKr&utcOffset=8">
+</p>
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=TearTyr&theme=onedark">
 </p>
