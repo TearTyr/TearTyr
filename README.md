@@ -13,9 +13,7 @@
 
 - HTML
 - CSS
-- JavaScript
-- Lua (Low-Mid level)
-- Python (Low-Mid level)
+- C# (Beginner level)
 
 ## 📊 GitHub Stats
 
