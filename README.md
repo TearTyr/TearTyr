@@ -6,13 +6,15 @@
 
 ## 💭 About Me
 
-- 🤔 Currently wondering on what I should do next in my coding journey
-- 💡 Open to new ideas
-
+- 🤔 3D Artist
+- 💔 3D Animator
+- 😇 Social Media Manager
+  
 ## 🛠 Skills
 
 - HTML
 - CSS
+- Python
 - C# (Beginner level)
 
 ## 📊 GitHub Stats
