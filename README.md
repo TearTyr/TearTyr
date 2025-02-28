@@ -4,19 +4,6 @@
 
 ![GitHub Activity](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TearTyr&theme=codeSTACKr)
 
-## 💭 About Me
-
-- 🤔 3D Artist
-- 💔 3D Animator
-- 😇 Social Media Manager
-  
-## 🛠 Skills
-
-- HTML
-- CSS
-- Python
-- C# (Beginner level)
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -28,14 +15,4 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=TearTyr&theme=onedark" alt="GitHub Trophies">
-</p>
-
-## 🤝 Let's Connect!
-
-Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas!
-
----
-
-<p align="center">
-  <i>Thanks for visiting my GitHub profile! Have a great day! 😊</i>
 </p>
