@@ -1,18 +1,14 @@
 # TearTyr (Albis)
 
-## 👋 Welcome to my GitHub profile!
-
-![GitHub Activity](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TearTyr&theme=codeSTACKr)
-
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TearTyr&theme=codeSTACKr" alt="Top Languages">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TearTyr&theme=codeSTACKr&utcOffset=8" alt="Productive Time">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TearTyr&theme=tokyonight" alt="Profile Details">
 </p>
 
-## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TearTyr&theme=tokyonight" alt="Top Languages">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TearTyr&theme=tokyonight&utcOffset=8" alt="Productive Time">
+</p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TearTyr&theme=onedark" alt="GitHub Trophies">
+  <img src="https://github-stats-extended.vercel.app/api?username=TearTyr&theme=tokyonight&show_icons=true&hide_border=true" alt="Stats">
 </p>
